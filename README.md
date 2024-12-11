@@ -5,8 +5,8 @@ Welcome to my GitHub profile! Here, you'll find my programming projects and expe
 I'm Rodrigues, passionate about backend development with a focus on mastering **Golang** for building scalable systems.
 
 ## Tech Interests
-- **Golang**: Main area of study.
-- **Backend Development**.
+- **JavaScript**: Main area of study.
+- **FullStack Development**.
 - **Tools**: Git and Neovim.
 - **Learning**: Hands-on projects and practical application.
 
